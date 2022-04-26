@@ -66,9 +66,3 @@ print(a, b, rest)
 *head, a, b = range(5)
 print(head, a, b)
 ```
-
-**named tuple**
-
-```py
-
-```

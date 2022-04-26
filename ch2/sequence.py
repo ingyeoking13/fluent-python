@@ -7,6 +7,8 @@ print(codes_condition)
 codes_condition = list(filter(lambda c: c not in 'hijk', map(lambda c:c , codes))) # map and filter(condition)
 print(codes_condition)
 
+
+
 # cartesian product
 colors = ["black", "white"]
 sizes = ["S", "W", "L"]
